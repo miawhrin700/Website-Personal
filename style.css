@@ -18,3 +18,16 @@
 section {
     padding-top: 8rem;
 }
+
+.card {
+    min-height: 380px;
+    justify-content: center;
+}
+
+.btn {
+    margin-bottom: 2rem;
+}
+
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+}
